@@ -16,22 +16,20 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "AWS User Group DFW"
-  image = "img/logo.png"
+  image = "img/icon.png"
   headline = "AWS User Group DFW"
   bio = "AWS User Group DFW"
   links = [
-    { github = "https://github.com/raphabot" },
-    { medium = "https://medium.com/@raphabot" },
-    { linkedin = "https://linkedin.com/in/rbottino/" },
-    { twitter = "https://twitter.com/raphabot" },
-    { email = "mailto:raphabot@gmail.com" },
+    { github = "https://github.com/awsugdfw" },
+    { linkedin = "https://www.linkedin.com/company/awsugdfw/" },
+    { twitter = "https://twitter.com/awsugdfw" },
   ]
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
   #   { codepen = "https://codepen.io/username" },
-    # { dev = "https://dev.to/raphabot" },
+  #   { dev = "https://dev.to/raphabot" },
   #   { discord = "https://discord.gg/invitecode" },
   #   { dribbble = "https://dribbble.com/username" },
   #   { facebook = "https://facebook.com/username" },
