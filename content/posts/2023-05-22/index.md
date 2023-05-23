@@ -24,8 +24,8 @@ To learn different offerings related to topics around Cloud Migration at AWS.
 13455 Noel Rd, Dallas, TX 75240
 Location and Parking directions are available here: <https://github.com/awsugdfw/awsugdfw.github.io/raw/797abe94ddef028e0ea9c8ae4abf3db093a75749/assets/pdf/GalleriaTower2-AddressLocationDetails.pdf>
 
-RSP at [hhttps://www.meetup.com/aws-dallas/events/293562156/](https://www.meetup.com/aws-dallas/events/293562156/)
+RSP at [https://www.meetup.com/aws-dallas/events/293562156/](https://www.meetup.com/aws-dallas/events/293562156/)
 
 ## Presenter Deck
 
-Download it [here](content/posts/2023-05-22/ENT316_MigrateTheAWS_E1_20221109_AMEdited.pdf).
+Download it [here](ENT316_MigrateTheAWS_E1_20221109_AMEdited.pdf).
